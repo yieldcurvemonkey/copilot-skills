@@ -28,7 +28,7 @@ Update by hand only: diff upstream, review, then copy. Never auto-sync.
 | source-driven-development | addyosmani/agent-skills | installed 2026-09-26 |
 | incremental-implementation | addyosmani/agent-skills | installed 2026-09-26 |
 
-Licenses for upstreams that shipped one are in `licenses/`. agent-skills license not copied locally; check upstream before sharing this repo.
+Upstream licenses are in `licenses/`. karpathy-guidelines ships no LICENSE file; its plugin manifest declares MIT.
 
 ## Review notes (2026-11-01)
 
